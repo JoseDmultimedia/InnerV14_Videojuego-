@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - objetos
+  - boss
+  - enemigo
+  - Colisiones
+  - MargaritaShot
+  - shotsEnemi
+  - salvavidas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - objetos teleport
+  - 
+  - enemigos
+  - proyectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: objetos
+    uniqueID: 1828506399
+    locked: 0
+  - name: enemigos
+    uniqueID: 3859138357
+    locked: 0
+  - name: boss
+    uniqueID: 731647911
+    locked: 0
+  - name: Player
+    uniqueID: 3990077575
+    locked: 0
+  - name: disparos
+    uniqueID: 4200946169
+    locked: 0
